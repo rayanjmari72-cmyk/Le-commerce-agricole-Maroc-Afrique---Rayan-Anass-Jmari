@@ -1,0 +1,51 @@
+{
+  "graine_aleatoire": 42,
+  "versions": {
+    "Python": "3.13.18",
+    "numpy": "2.4.6",
+    "pandas": "2.2.3",
+    "scikit-learn": "1.6.1",
+    "matplotlib": "3.10.0",
+    "requests": "2.32.4"
+  },
+  "date_extraction": "19/11/2026",
+  "origine_donnees": "API UN Comtrade (extraction du jour)",
+  "point_acces": "https://comtradeapi.un.org/public/v1/preview/C/A/HS",
+  "parametres": {
+    "reporterCode": 504,
+    "flowCode": "X",
+    "cmdCode": [
+      "07",
+      "08"
+    ],
+    "partnerCode": [
+      478,
+      686,
+      384,
+      466,
+      854,
+      324,
+      266,
+      120,
+      788,
+      12,
+      818,
+      566,
+      288,
+      404,
+      710
+    ],
+    "period": "2010-2024"
+  },
+  "requetes_executees": 84,
+  "hyperparametres": {
+    "Ridge": {
+      "alpha": "0.01"
+    },
+    "Forêt aléatoire": {
+      "max_depth": "3",
+      "min_samples_leaf": "1",
+      "n_estimators": "200"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+modele,jeu_evalue,metrique,valeur
+Persistance,validation (plis temporels),MAE (M USD),0.730471968545977
+Persistance,test final,MAE (M USD),0.8093096973275865
+Persistance,test final,RMSE (M USD),1.595997553211308
+Persistance,test final,WAPE (%),30.520086043874624
+Ridge,validation (plis temporels),MAE (M USD),0.7674691718508807
+Ridge,test final,MAE (M USD),1.1646525857740682
+Ridge,test final,RMSE (M USD),2.3996667612346494
+Ridge,test final,WAPE (%),43.92051305750987
+Forêt aléatoire,validation (plis temporels),MAE (M USD),0.9664376911841931
+Forêt aléatoire,test final,MAE (M USD),0.8964821486918981
+Forêt aléatoire,test final,RMSE (M USD),1.5601206658229487
+Forêt aléatoire,test final,WAPE (%),33.80746876655731
