@@ -1,5 +1,5 @@
 Projet 37 — Commerce agricole Maroc–Afrique (HS07 et HS08)
-Binôme : Nom Prénom 1 / Nom Prénom 2 — ENCG Casablanca, Commerce International
+Rayan Anass Jmari — ENCG Settat, Commerce International
 Description
 Analyse en panel et prévision à un an des exportations marocaines de légumes (HS07) et de fruits (HS08) vers 15 partenaires africains (2010–2024), à partir de l'API publique UN Comtrade. Trois approches comparées sans fuite temporelle : persistance, Ridge, forêt aléatoire.
 Contenu
